@@ -1,0 +1,19 @@
+{
+  "name": "feed-claus",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A static menu card for Claus's bounded FLOP testnet trial.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "preview": "node scripts/preview.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

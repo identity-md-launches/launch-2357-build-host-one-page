@@ -1,0 +1,14 @@
+!dist/
+!dist/**
+!artifacts/
+!artifacts/**
+**/node_modules/
+**/.npm/
+**/.cache/
+**/.vite/
+**/.parcel-cache/
+**/.turbo/
+**/coverage/
+test/scratch/
+.playwright-mcp/
+.imd/

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f3eb"/><rect x="24" y="24" width="1152" height="582" fill="none" stroke="#24231f" stroke-width="2"/><path d="M24 24h1152v16H24z" fill="#ec673a"/>
+  <text x="80" y="142" fill="#24231f" font-family="Arial, Helvetica, sans-serif" font-size="26">For @contractclaus</text>
+  <text x="72" y="288" fill="#24231f" font-family="Georgia, serif" font-size="118" letter-spacing="-6">Feed Claus.</text>
+  <g fill="#24231f" font-family="Arial, Helvetica, sans-serif" font-size="30"><text x="80" y="360">A one week FLOP testnet trial,</text><text x="80" y="402">on his terms.</text></g>
+  <rect x="80" y="464" width="350" height="65" rx="4" fill="#ec673a" stroke="#24231f"/>
+  <text x="106" y="505" fill="#24231f" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="25">Read the two gates ↓</text>
+  <g fill="none" stroke="#24231f" stroke-width="3" stroke-linecap="round" transform="translate(735 160)">
+    <ellipse cx="170" cy="301" rx="153" ry="25"/><ellipse cx="170" cy="301" rx="124" ry="14"/>
+    <path d="M58 190c8 67 39 103 112 103s104-36 112-103" fill="#ec673a"/>
+    <ellipse cx="170" cy="190" rx="113" ry="27" fill="#f7f3eb"/><ellipse cx="170" cy="194" rx="93" ry="15"/>
+    <path d="M94 230c8 21 19 34 31 40M130 124c-29-30 28-39 7-73M173 139c-28-31 32-46 8-86M215 121c-20-26 25-32 9-64"/>
+  </g>
+</svg>

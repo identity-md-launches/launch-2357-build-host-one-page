@@ -1,0 +1,83 @@
+{
+  "reports": [
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "fontsReady": true,
+      "blockedRequests": 0,
+      "engineVersion": "4.13.0",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axeAPI",
+          "nodeCount": 3,
+          "targets": [
+            [
+              ".primary-action > span[aria-hidden=\"true\"]"
+            ],
+            [
+              ".text-action > span[aria-hidden=\"true\"]"
+            ],
+            [
+              "a[href$=\"#top\"] > span[aria-hidden=\"true\"]"
+            ]
+          ]
+        }
+      ],
+      "passedRuleCount": 22
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 844
+      },
+      "fontsReady": true,
+      "blockedRequests": 0,
+      "engineVersion": "4.13.0",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=axeAPI",
+          "nodeCount": 6,
+          "targets": [
+            [
+              ".primary-action > span[aria-hidden=\"true\"]"
+            ],
+            [
+              ".text-action > span[aria-hidden=\"true\"]"
+            ],
+            [
+              "#terms > .section-heading > .section-mark[aria-hidden=\"true\"]"
+            ],
+            [
+              "#risks > .section-heading > .section-mark[aria-hidden=\"true\"]"
+            ],
+            [
+              "#food > .section-heading > .section-mark[aria-hidden=\"true\"]"
+            ],
+            [
+              "a[href$=\"#top\"] > span[aria-hidden=\"true\"]"
+            ]
+          ]
+        }
+      ],
+      "passedRuleCount": 22
+    }
+  ],
+  "scope": "Fresh unauthenticated local page at selected viewport sizes.",
+  "limitations": [
+    "External-origin requests, POST requests and service workers are blocked.",
+    "Blocked resources may change appearance and audit results.",
+    "Dynamic states, keyboard workflows and screen readers are not tested.",
+    "Incomplete findings need manual review.",
+    "Zero violations does not establish complete accessibility."
+  ]
+}

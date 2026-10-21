@@ -1,0 +1,12 @@
+{
+  "byteLimit": 8388608,
+  "paths": {
+    ".gitignore": {
+      "maxBytes": 512,
+      "purpose": "Include the static export and validation evidence while excluding generated dependency and cache directories at every nesting level."
+    },
+    "dist/**": { "maxBytes": 131072 },
+    "artifacts/screenshots/**": { "maxBytes": 2097152 },
+    "source, configuration and documentation": { "maxBytes": 262144 }
+  }
+}

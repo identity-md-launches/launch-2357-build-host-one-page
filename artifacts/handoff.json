@@ -1,0 +1,163 @@
+{
+  "exportBytes": 86173,
+  "exportFiles": [
+    {
+      "path": "dist/assets/favicon.svg",
+      "bytes": 319,
+      "sha256": "363806e4fbdde2c267abe0c5c4307db74bc7bc6b9d2ecc9d5880c309d66f64fb"
+    },
+    {
+      "path": "dist/assets/share.png",
+      "bytes": 58097,
+      "sha256": "f6af7b12ae246b6116915c33c763980f9e76f8dbdcaf934e69cb20a12b4c6efc"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 15297,
+      "sha256": "686daefccff5f71bf7f58e8f8c85f8bf063722577cafebb1d4a4e99316bf1de8"
+    },
+    {
+      "path": "dist/src/style.css",
+      "bytes": 11262,
+      "sha256": "2bfafaede9f088aae18b3cde9bb956a53b76c3cb74b900019852e712da960d15"
+    },
+    {
+      "path": "dist/src/theme.js",
+      "bytes": 1198,
+      "sha256": "0ab1186640d83a3cdb1c257258cf94488e141434770ffe29e842c1d1a57dca16"
+    }
+  ],
+  "screenshotBytes": 1464395,
+  "sourceAndDocumentationBytes": 142333,
+  "totalBytesExcludingThisRecord": 1692901,
+  "byteLimit": 8388608,
+  "withinBudget": true,
+  "gitBundleMeasured": false,
+  "note": "Conservative uncompressed output file measurement. The contributor platform creates the Git submission bundle. Inputs, scratch work and installed dependencies are excluded.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 168
+    },
+    {
+      "path": "index.html",
+      "bytes": 15297
+    },
+    {
+      "path": "src/style.css",
+      "bytes": 11262
+    },
+    {
+      "path": "src/theme.js",
+      "bytes": 1198
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 319
+    },
+    {
+      "path": "assets/share.png",
+      "bytes": 58097
+    },
+    {
+      "path": "assets/share.svg",
+      "bytes": 1455
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 720
+    },
+    {
+      "path": "scripts/check.mjs",
+      "bytes": 5881
+    },
+    {
+      "path": "scripts/preview.mjs",
+      "bytes": 1126
+    },
+    {
+      "path": "package.json",
+      "bytes": 433
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 754
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 314
+    },
+    {
+      "path": "README.md",
+      "bytes": 4673
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 8078
+    },
+    {
+      "path": "dist/assets/favicon.svg",
+      "bytes": 319
+    },
+    {
+      "path": "dist/assets/share.png",
+      "bytes": 58097
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 15297
+    },
+    {
+      "path": "dist/src/style.css",
+      "bytes": 11262
+    },
+    {
+      "path": "dist/src/theme.js",
+      "bytes": 1198
+    },
+    {
+      "path": "artifacts/accessibility.json",
+      "bytes": 2485
+    },
+    {
+      "path": "artifacts/browser-checks.json",
+      "bytes": 4377
+    },
+    {
+      "path": "artifacts/licenses/design-guidance.txt",
+      "bytes": 11964
+    },
+    {
+      "path": "artifacts/path-budget.json",
+      "bytes": 413
+    },
+    {
+      "path": "artifacts/screenshots/desktop-dark.png",
+      "bytes": 636185
+    },
+    {
+      "path": "artifacts/screenshots/desktop-light.png",
+      "bytes": 621172
+    },
+    {
+      "path": "artifacts/screenshots/mobile-dark.png",
+      "bytes": 52275
+    },
+    {
+      "path": "artifacts/screenshots/mobile-focus.png",
+      "bytes": 50841
+    },
+    {
+      "path": "artifacts/screenshots/mobile-light.png",
+      "bytes": 50917
+    },
+    {
+      "path": "artifacts/screenshots/primary-focus.png",
+      "bytes": 53005
+    },
+    {
+      "path": "artifacts/validation.md",
+      "bytes": 13319
+    }
+  ]
+}
